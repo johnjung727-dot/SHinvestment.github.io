@@ -1,20 +1,21 @@
 # Site Settings
-title: SH Investment
+title: SH투자증권
 tagline: Research & Contents
-description: >-
-  기업 분석 리포트, 금융상품 연구, 시장 분석을 공유하는 공간입니다.
+description: SH투자증권 리서치 & 콘텐츠 공간입니다.
 
 url: "https://johnjung727-dot.github.io"
 baseurl: "/SHinvestment.github.io"
 
-# Author Information
-author:
-  name: SH투자증권
-  email:
-
-# Theme Configuration
-theme: jekyll-theme-chirpy
+# Language & Theme
 lang: ko
+theme: jekyll-theme-chirpy
+
+# Sidebar Navigation Settings
+tabs:
+  - categories
+  - tags
+  - archives
+  - about
 
 # Plugins
 plugins:
