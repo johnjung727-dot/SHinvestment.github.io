@@ -1,11 +1,22 @@
+# Site Settings
 title: SH Investment
 tagline: Research & Contents
 description: "SH Investment Research & Contents"
 
+# URL
 url: "https://johnjung727-dot.github.io"
 baseurl: "/SHinvestment.github.io"
 
+# Profile
 avatar: "/assets/profile.png"
 
+# Theme
 theme: jekyll-theme-chirpy
 lang: ko
+timezone: Asia/Seoul
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
