@@ -1,0 +1,15 @@
+- title: 홈
+  url: /
+  icon: fas fa-home
+
+- title: 소개
+  url: /categories/소개/
+  icon: fas fa-info-circle
+
+- title: 리서치/뉴스
+  url: /categories/리서치-뉴스/
+  icon: fas fa-chart-line
+
+- title: 금융상품
+  url: /categories/금융상품/
+  icon: fas fa-coins
