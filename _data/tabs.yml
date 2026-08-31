@@ -1,0 +1,16 @@
+# Tabs on sidebar
+categories:
+  icon: fas fa-stream
+  order: 1
+
+tags:
+  icon: fas fa-tags
+  order: 2
+
+archives:
+  icon: fas fa-archive
+  order: 3
+
+about:
+  icon: fas fa-info-circle
+  order: 4
